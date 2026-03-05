@@ -79,7 +79,12 @@ li a::before{
 li a:hover::before{
     width: 100%;
 }
+div a{
+    text-decoration: none;
+    color: rgb(26, 6, 206);
+}
 .visit-btn{
+    text-decoration: none;
     padding: 0.8rem 1.5rem;
     border-radius: 3rem;
     border: none;
@@ -92,6 +97,7 @@ li a:hover::before{
     background: linear-gradient(to right, rgb(0, 157, 255), rgb(255, 0, 255));
 }
 .visit-btn:hover{
+    text-decoration: none;
     transform: scale(1.0);
     background: linear-gradient(to right, rgb(255, 0, 255), rgb(0, 157, 255));
 }
