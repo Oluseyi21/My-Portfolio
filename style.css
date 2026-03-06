@@ -390,6 +390,9 @@ footer p {
     }
 }
 @media(max-width: 600px){
+    header #menu-icon{
+        display: block;
+    }
     .nav-links{
         position: absolute;
         top: 100%;
@@ -413,6 +416,9 @@ footer p {
     }
     header{
         padding: 1rem 5rem;
+    }
+    header .logo{
+        font-size: 105rem;
     }
     .about-container img{
         width: 80vw;
