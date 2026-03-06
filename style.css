@@ -143,6 +143,11 @@ section{
     font-size: 4rem;
     font-weight: 600;
 }
+.info-box p{
+    font-size: 17px;;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
 .info-box span{
     background: linear-gradient(to right, rgb(255, 0, 255), rgb(0, 157, 255));
     background-clip: text;
