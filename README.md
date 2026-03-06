@@ -1,68 +1,98 @@
 # Hi, I'm Oluseyi Sosanya
-Computer Programming Student – Georgian College
-Full-Stack & IT Solutions Developer
-Barrie, Ontario
 
-# About Me
-Detail-oriented Computer Programming student with hands-on experience in web application development, database integration, and technical problem-solving. Possess a strong foundation in backend logic, system troubleshooting, authentication processes, and structured documentation.
-Adaptable and eager to contribute to IT support, systems administration, or software development environments by building reliable, efficient, and well-organized technical solutions.
+## About Me
+I'm a Computer Programming student at Georgian College in Ontario, Canada, with a strong interest in full-stack web development and IT solutions. I enjoy building practical applications that combine clean design with efficient backend functionality. Through my coursework and personal projects, I have developed experience in web development, programming, databases, and troubleshooting technical systems.
 
-# Featured Projects
-  Full-Stack ERP-style Web Application
- 
-  PHP | MySQL | HTML | CSS
+I am passionate about learning new technologies and improving my development skills. My goal is to become a full-stack developer capable of designing and implementing scalable applications that solve real-world problems. I enjoy working on projects that challenge my problem-solving abilities and help me grow as a developer.
 
-Successfully developed a dynamic PHP-based web application, resulting in secure and structured data management.
+## 🎯 My Goals
+- **Professional Growth:** Gain hands-on experience in software and web development while contributing to meaningful technology projects.
+- **Continuous Learning:** Improve my knowledge in backend development, databases, and cloud technologies.
+- **Innovation & Creativity:** Push the boundaries of what technology can do, experimenting with new frameworks, tools, and approaches to solve complex problems.
+- **Career Objective:** Secure a software development or IT-related internship/full-time position where I can apply and expand my programming skills.
 
-Efficiently integrated a MySQL database, ensuring reliable data storage and retrieval.
+## 💡 What Drives Me
+- **Curiosity & Exploration:** I thrive on exploring new programming languages, frameworks, and technologies to solve challenges in creative ways.
+- **Practical Problem-Solving:** Finding efficient, maintainable solutions for real-world problems keeps me motivated and engaged.
+- **User-Focused Design:** I aim to create applications that are not only functional but also intuitive and enjoyable for users.
+- **Collaboration & Learning:** Sharing knowledge, working with others, and learning from different perspectives is central to how I grow as a developer.
 
-Securely implemented user authentication logic, improving system access control.
+## 🚀 Featured Projects
 
-Thoroughly documented system architecture and workflow processes, increasing implementation clarity.
+### 🖥️ Personal Portfolio Website
+**Tech Stack:** HTML, CSS, JavaScript  
+A responsive portfolio website designed to showcase my skills and development projects.
 
-Systematically troubleshot backend and connectivity issues, enhancing application stability and performance.
+**Features:**
+- Responsive layout
+- Multiple pages (About, Skills, Projects, Contact)
+- Social media integration
+- Clean UI design
 
-[View Repository] (https://github.com/Oluseyi21/PROJECT-FOR-PHP-AND-CSS/tree/main)
+[View Website](https://oluseyi-sosanya.netlify.app/)
 
-# Retro Product Microsite – Inspired by Polaroid Camera
+### 🛒 Full-Stack Product Management Web App
+**Tech Stack:** PHP, MySQL, HTML, CSS  
+A web application that allows users to manage products using a dynamic database.
 
-  HTML5 | CSS3 | JavaScript
+**Features:**
+- Product data storage and retrieval
+- Backend logic for managing products
+- MySQL database integration
+- GitHub version control
 
-Creatively designed a fully responsive product microsite, improving user accessibility across devices.
+[GitHub](https://github.com/Oluseyi21/Full-Stack-Application)
 
-Effectively implemented interactive JavaScript features, enhancing user engagement.
+### 📸 Retro Product Microsite – Polaroid Camera
+**Tech Stack:** HTML, CSS, JavaScript  
+A modern product microsite showcasing a vintage camera using responsive layouts and interactive design.
 
-Carefully conducted cross-browser testing, ensuring consistent functionality across platforms.
+**Features:**
+- CSS Flexbox and Grid layout
+- Interactive product design
+- Cross-browser compatibility
 
-Organized version control using GitHub, improving collaboration and project tracking.
+[GitHub](https://github.com/Oluseyi21/Retro-Product-Microsite) | [View Website](https://retro-product-microsite.netlify.app/)
 
- [View Repository] (https://github.com/Oluseyi21/Summer2025/tree/main/PROJECT)
+## 💻 Technical Skills
 
-# Technical Skills
+### Programming Languages
+- Python
+- JavaScript
+- PHP
+- Java
 
-Languages:
-PHP | JavaScript | HTML5 | CSS3 | SQL | Java
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
-Tools & Technologies:
-MySQL | Git | GitHub | VS Code | XAMPP | PHP | IntelliJ IDEA 
+### Database Management
+- MySQL
+- SQL
 
-Concepts:
-Authentication Systems | Database Integration | Responsive Design | Troubleshooting | System Documentation | Object Oriented Programming
+### Tools & Technologies
+- Git & GitHub
+- Visual Studio Code
+- Windows
+- Microsoft Office Suite
+- IntelliJ IDEA
 
-# Currently Strengthening
+## 🎓 Education
+**Computer Programming Diploma**  
+Georgian College – Ontario, Canada  
 
-ASP.NET Core MVC
+**Relevant Coursework:**  
+- Object-Oriented Programming  
+- Web Development  
+- Database Systems  
 
-Python Programming
+## 📊 GitHub Activity
+- 💻 Active projects in web and software development  
+- 📂 Multiple repositories showcasing coursework and personal projects  
+- 🔧 Continuous learning through coding practice and experimentation  
 
-Client-side JavaScript
-
-Secure Coding Practices
-
-# Connect With Me
-
-GitHub: https://github.com/Oluseyi21
-
-LinkedIn: (www.linkedin.com/in/oluseyi-sosanya-b2a0a1390)
-
-
+## 📫 Contact
+- **GitHub:** [Oluseyi21](https://github.com/Oluseyi21)  
+- **LinkedIn:** [Oluseyi Sosanya](https://www.linkedin.com/in/oluseyi-sosanya)
