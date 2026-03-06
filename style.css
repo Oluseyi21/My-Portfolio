@@ -159,6 +159,7 @@ section{
     gap: 1rem;
 }
 .btn{
+    color: grey;
     border-radius: 3rem;
     padding: 0.5rem 1.5rem;
     border: 2px solid black;
@@ -293,14 +294,45 @@ section{
     gap: 2rem;
     margin-top: 5rem;
 }
-.input-box input{
-    border-radius: 3rem;
-    border: 2px solid black; 
-    padding: 2rem 8rem;
-    font-size: 3rem;
+.input-box input {
+    width: 100%;
+    max-width: 400px; 
+    border-radius: 2rem; 
+    border: 1.5px solid #333; 
+    padding: 0.8rem 1.5rem; 
+    font-size: 1rem; 
+    outline: none;
+    transition: border-color 0.3s ease;
 }
-.input-box input::placeholder{
-    font-size: 3rem;
+.input-box input::placeholder {
+    font-size: 1rem;
+    color: #666;
 }
-
-
+.input-box input:focus {
+    border-color: #007bff;
+}
+.input{
+    position: relative;
+}
+footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 6rem; 
+    background-color: white; 
+}
+footer p {
+    color: black;
+    font-weight: 600;
+    margin: 0; 
+    font-size: 1rem; 
+}
+.copyright {
+    font-size: 0.9rem; 
+    font-weight: 400;
+}
