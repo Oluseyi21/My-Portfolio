@@ -29,7 +29,7 @@ A responsive portfolio website designed to showcase my skills and development pr
 - Social media integration
 - Clean UI design
 
-[View Website](https://oluseyisosanya.netlify.app/)
+[View Website](https://my-portfolio-pi-olive-92.vercel.app/)
 
 ### 🛒 Full-Stack Product Management Web App
 **Tech Stack:** PHP, MySQL, HTML, CSS  
