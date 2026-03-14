@@ -1,56 +1,54 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Oluseyi Sosanya</title>
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
-        <script src="script.js" defer></script>
-    </head>
-    <body>
-        <header>
-            <nav>
-                <a href="index.html" class="logo"><span>Oluseyi Sosanya</span></a>
-                <ul class="nav-links">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="skills.html">Skills</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                </ul>
-                <i class="fa-solid fa-bars" id="menu-icons"></i>
-                <a href="https://github.com/Oluseyi21?tab=overview&from=2026-03-01&to=2026-03-04" target="_blank">
-                    <button class="visit-btn">Visit GitHub</button>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="index.html" class="logo">Oluseyi Sosanya</a>
+
+        <nav class="navbar">
+            <a href="index.html" style="--i:1" class="active">Home</a>
+            <a href="about.html" style="--i:2" class="active">About</a>
+            <a href="skill.html" style="--i:3" class="active">Skill</a>
+            <a href="project.html" style="--i:4" class="active">Projects</a>
+            <a href="contact.html" style="--i:5" class="active">Contact</a>
+        </nav>
+    </header>
+    <section class="home">
+    <div class="home-container">
+        <div class="home-text">
+            <h3>Hello, It's Me</h3>
+            <h1>Oluseyi Sosanya</h1>
+            <h3>And I'm a</h3>
+            <p>Full-Stack Developer</p>
+            <div class="home-sci">
+                <a href="https://www.linkedin.com/in/oluseyi-sosanya/" target="_blank" style="--i:1">
+                    <i class="fa-brands fa-linkedin"></i>
                 </a>
-            </nav>
-        </header>
-        <section id="about" class="about">
-            <div class="about-container">
-                <img src="./Images/pexels-pixabay-270360.jpg" alt="">
-                <div class="info-box">
-                    <div class="text">
-                        <h3>Hi, I'm</h3>
-                        <h1>Oluseyi Sosanya</h1>
-                        <span>Full-Stack & IT Solutions Developer</span>
-                    </div>
-                    <div class="btn-group">
-                        <div class="btn"><a href="projects.html">View Projects</a></div>
-                        <div class="btn"><a href="contact.html">Contact</a></div>
-                    </div>
-                    <div class="socials">
-                        <a href="https://github.com/Oluseyi21?tab=overview&from=2026-03-01&to=2026-03-04" target="_blank">
-                            <i class="fa-brands fa-github"></i>
-                        </a>
-                        <a href="https://www.linkedin.com/in/oluseyi-sosanya/" target="_blank">
-                            <i class="fa-brands fa-linkedin"></i>
-                        </a>
-                    </div>
-                </div>
+                <a href="https://github.com/Oluseyi21" target="_blank" style="--i:2">
+                    <i class="fa-brands fa-github"></i>
+                </a>
             </div>
-        </section>       
-         <footer>
-            <p>&copy; 2026 Oluseyi Sosanya. All rights reserved.</p>
-        </footer>
-        </body>
-            </html>
+            <a href="contact.html" class="btn-box">Contact Me</a>
+        </div>
+
+        <div class="home-img">
+            <img src="./images/Profile photo.jpeg" alt="Oluseyi Sosanya">
+        </div>
+    </div>
+</section>
+</header>
+   <footer>
+        <p>&copy; 2026 Oluseyi Sosanya. All right reserved</p>
+    </footer>
+    <script src="script.js" defer></script>
+</body>
+
+</html>
